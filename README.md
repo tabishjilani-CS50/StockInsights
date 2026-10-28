@@ -56,7 +56,7 @@ The application retrieves the available market data and generates visualizations
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/tabishjilani-CS50/StockInsights.git>
 cd StockInsight
 ```
 
